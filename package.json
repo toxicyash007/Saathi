@@ -1,0 +1,6 @@
+{
+  "name": "saathi-live",
+  "private": true,
+  "type": "module",
+  "dependencies": { "@netlify/blobs": "^8.2.0" }
+}
